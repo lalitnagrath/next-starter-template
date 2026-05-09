@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function ScapiaReferralLandingPage() {
   const features = [
     {
-      title: 'Zero Forex Markup',
+      title: 'Zero Forex Markup & LTF Card',
       desc: 'Spend internationally without paying extra forex charges.',
     },
     {
@@ -41,7 +41,7 @@ export default function ScapiaReferralLandingPage() {
       <header className="sticky top-0 z-50 backdrop-blur-xl border-b border-white/10 bg-black/40">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="text-2xl font-bold tracking-tight">
-            ScapiaReferral
+            Best LTF Credit Cards
           </div>
 
           <nav className="hidden md:flex items-center gap-8 text-sm text-zinc-300">
@@ -57,7 +57,7 @@ export default function ScapiaReferralLandingPage() {
           </nav>
 
           <button className="rounded-full bg-white text-black px-5 py-2 font-semibold hover:scale-105 transition">
-            Apply Now
+            <a href="https://apply.scapia.cards/landing_page?referral_code=neqk4m" >Apply Now</a>a>
           </button>
         </div>
       </header>
@@ -119,7 +119,7 @@ export default function ScapiaReferralLandingPage() {
               <div className="mt-16 flex justify-between items-end">
                 <div>
                   <p className="text-xs text-zinc-500">Card Holder</p>
-                  <p className="mt-1 font-semibold">Lalit Nagrath</p>
+                  <p className="mt-1 font-semibold">James Bond</p>
                 </div>
 
                 <div className="text-right">
