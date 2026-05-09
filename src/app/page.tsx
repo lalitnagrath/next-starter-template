@@ -57,7 +57,7 @@ export default function ScapiaReferralLandingPage() {
           </nav>
 
           <button className="rounded-full bg-white text-black px-5 py-2 font-semibold hover:scale-105 transition">
-            <a href="https://apply.scapia.cards/landing_page?referral_code=neqk4m" >Apply Now</a>a>
+            <a href="https://apply.scapia.cards/landing_page?referral_code=neqk4m" >Apply Now</a>
           </button>
         </div>
       </header>
@@ -82,12 +82,13 @@ export default function ScapiaReferralLandingPage() {
             </p>
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
-              <button className="rounded-full bg-white text-black px-8 py-4 font-semibold text-lg hover:scale-105 transition">
-                Apply with Referral
-              </button>
+             
 
               <button className="rounded-full border border-white/20 px-8 py-4 text-lg hover:bg-white/10 transition">
                 Learn More
+              </button>
+               <button className="rounded-full bg-white text-black px-8 py-4 font-semibold text-lg hover:scale-105 transition">
+            <a href="https://apply.scapia.cards/landing_page?referral_code=neqk4m" >Apply Now</a>
               </button>
             </div>
 
