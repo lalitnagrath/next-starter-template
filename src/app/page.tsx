@@ -293,7 +293,7 @@ export default function ScapiaReferralLandingPage() {
           <div>
             <div className="text-2xl font-bold">ScapiaReferral</div>
             <p className="mt-2 text-zinc-500 text-sm">
-              Built with Next.js + Tailwind CSS
+              Built with Love fo LTF Cards in India
             </p>
           </div>
 
