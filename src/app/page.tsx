@@ -8,7 +8,7 @@ export default function ScapiaReferralLandingPage() {
     },
     {
       title: 'Airport Benefits',
-      desc: 'Enjoy lounge access, dining and travel perks across airports.',
+      desc: 'Enjoy lounge access, dining and travel perks across airports.Free Laounge if spend is 20K or more now',
     },
     {
       title: 'Travel Rewards',
@@ -95,7 +95,7 @@ export default function ScapiaReferralLandingPage() {
             <div className="mt-12 flex flex-wrap gap-6 text-sm text-zinc-400">
               <div>✔ Lifetime Free</div>
               <div>✔ Zero Forex</div>
-              <div>✔ Lounge Access</div>
+              <div>✔ Free Lounge Access(20K spend Requ)</div>
             </div>
           </div>
 
